@@ -1,5 +1,4 @@
-import React ,{useState,useEffect} from 'react'
-
+import React ,{useState,useEffect} from 'react
 function Card() {
     const [user,setUser] = useState([]);
 
@@ -51,4 +50,4 @@ function Card() {
     )
 }
 
-export default Card
+export default card
